@@ -15,7 +15,7 @@ I am a 21-year-old B.Tech student (AI & ML) at JNCT, Bhopal, operating with a si
 
 
 
-- 📈 **Currently:** Week 03/36 of the Data Science Mentorship Program.
+- 📈 **Currently:** Week 06/36 of the Data Science Mentorship Program.
 
 - 🎓 **Preparing for:** GATE 2027 (PW Prakaram Batch).
 
